@@ -10,8 +10,10 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
 - **Interactive UI**: Custom graphical interface showing student information and attendance status
 - **Anti-duplicate System**: Prevents multiple attendance entries for the same student in a short time period
 - **Student Image Display**: Shows student photos alongside their information
-![Alt text](Resources/background.png)
-![Alt text](Resources/Modes/2.png)
+<p align="center">
+  <img src="Resources/background.png" alt="Background" width="300"/>
+  <img src="Resources/Modes/2.png" alt="Mode 2" width="300"/>
+</p>
 ## Prerequisites
 
 Before running this project, make sure you have:
