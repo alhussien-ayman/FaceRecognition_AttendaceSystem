@@ -13,6 +13,8 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
 <p align="center">
   <img src="Resources/background.png" alt="Background" width="300"/>
   <img src="Resources/Modes/2.png" alt="Mode 2" width="300"/>
+  <img src="Resources/Modes/3.png" alt="Mode 2" width="300"/>
+  
 </p>
 ## Prerequisites
 
